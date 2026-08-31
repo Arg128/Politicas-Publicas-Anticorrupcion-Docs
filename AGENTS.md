@@ -18,6 +18,7 @@ indexadas a base Scopus.
   carpetas `./referenciasPdf`.
 - Respetar la estructura propuesta en la ruta raíz del proyecto llamado
 `template.tex`.
+- Para guiarse del tema a trabajar, la sección llamada \title en cada `document.tex` será de referencia.
 
 ## Validation
 
